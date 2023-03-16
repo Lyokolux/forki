@@ -5,7 +5,7 @@ import Icon from '~/components/atoms/Icon.vue'
 
 <template>
   <header>
-    <Icon icon="house" />
+    <Icon icon="House" />
 
     <div class="wrapper">
       <nav>

@@ -1,5 +1,4 @@
 # Forki
 
-https://oruga.io/documentation/
-
-## Recommended IDE Setup
+Inspiration: https://git-fork.com/
+Icons: https://lucide.dev/
